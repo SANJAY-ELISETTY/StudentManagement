@@ -1,1 +1,1 @@
-Student Management Application
+Student Information System
